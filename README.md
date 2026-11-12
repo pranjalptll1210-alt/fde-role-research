@@ -25,3 +25,5 @@ GitHub Pages: Settings → Pages → Source → GitHub Actions. Push to `main`. 
 - `docs/sources.md`: source register, limitations and refresh method
 
 Employer text remains owned by its respective authors. This repository contains concise research paraphrases, not copied job descriptions.
+
+Build maintenance: Vite is overridden to patched version 6.4.6; the VitePress production build was verified with this override.

@@ -2,6 +2,26 @@
 
 Checked **November 12, 2026**. Each linked employer page or ATS record was accessible with an application route. Open status can change; this is a dated research snapshot.
 
+## Check first
+
+As of **November 12, 2026**:
+
+- **[Google London](#google-london): apply before November 13.** No immigration sponsorship; degree wording conflicts.
+- **[Google Singapore](#google-singapore): anticipated close November 15**, possibly earlier; local work authorization prioritized.
+- **[Palantir Paris](#palantir-intern):** 2027 graduation and final internship before graduating.
+- **[Palantir New York](#palantir-new-grad):** December 2026 or spring 2027 graduates.
+- **[Anthropic London](#anthropic):** experienced role; 4+ years in the description versus 8+ in the application.
+
+These are dated posting constraints, not a live application-status feed. Recheck the employer page before applying.
+
+## Jump to a role
+
+- **Internship · Singapore** — [Google, 10–12 weeks](#google-singapore)
+- **Internship · London** — [Google, 13–17 weeks](#google-london)
+- **Internship · Paris** — [Palantir, on-site](#palantir-intern)
+- **Full-time · New York** — [Palantir, new graduate](#palantir-new-grad)
+- **Experienced · London** — [Anthropic](#anthropic)
+
 ## Internships
 
 ### Google · Singapore {#google-singapore}
